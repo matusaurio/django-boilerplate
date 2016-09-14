@@ -100,7 +100,8 @@ DEBUG = True
 ```
 and into the *production.py* file:
 ```
-DEBUG = False```
+DEBUG = False
+```
 
 
 ### DJANGO SECRET_KEY
